@@ -6,12 +6,12 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: cursive, handwriting;
-    background-color: #fde353;
-    color: #381a09;
+    background-color: #895B4A;
+    color: #DACCBA;
 }
 
 header {
-    background-color: #47341c;
+    background-color: #DACCBA;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
@@ -80,7 +80,7 @@ nav a:hover {
 
 .menu {
     padding: 100px 0;
-    text-align: center;
+    text-align: center; 
 }
 
 .menu h2 {

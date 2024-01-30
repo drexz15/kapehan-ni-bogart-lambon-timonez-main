@@ -27,9 +27,12 @@ Welcome to "Kapehan ni Bogart",  a charming and cozy café nestled in the heart 
 ![Kapehan ni Bogart Image](img/inter-4.jpg)
 
 ## About the Authors
+<img src="img/mack.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
 
 Remark Timonez - Founder and Culinary Curator:
 A visionary in the world of culinary arts, Olivia brings her passion for flavors and aesthetics to Kapehan ni Bogart. With a background in culinary design, she crafts the café's delightful menu, ensuring every dish tells a story of quality and creativity. Remark's commitment to a sensory journey is evident in every bite, making Sereni-tea Haven a haven for gastronomic bliss.
+
+<img src="img/drex.jpg" alt="Image 1" width="150" style="border-radius: 50%;">
 
 Drexzel Paul Lambon - Co-founder and Design Maestro:
 The artistic force behind Sereni-tea Haven's inviting ambiance, Drexzel infuses the space with warmth and character. With a keen eye for design, he transforms the café into a tranquil retreat, creating an atmosphere that invites patrons to linger and savor the moment. Drexzels's dedication to aesthetic detail ensures that every visit to Kapehan ni Bogart is a visual and tactile delight.
